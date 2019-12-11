@@ -1,0 +1,145 @@
+{  
+   "Airlines":[  
+      {  
+         "id":"1",
+         "name":"Shreya",
+         "flight":"Airlines",
+         "from":"China",
+         "to":"India",
+         "gate":"A1"
+      },
+
+      {  
+         "id":"2",
+         "name":"Amita",
+         "flight":"Jetways",
+         "from":"Us",
+         "to":"India",
+         "gate":"A2"
+      },
+
+      {  
+         "id":"3",
+         "name":"Xu",
+         "flight":"British",
+         "from":"China",
+         "to":"Us",
+         "gate":"A1"
+      },
+
+     {  
+         "id":"4",
+         "name":"Varun",
+         "flight":"Indigo",
+         "from":"India",
+         "to":"US",
+         "gate":"A2"
+      },
+
+      {  
+         "id":"5",
+         "name":"Satish",
+         "flight":"Airlines",
+         "from":"Us",
+         "to":"India",
+         "gate":"A2"
+      },
+
+      {  
+         "id":"6",
+         "name":"Sharma",
+         "flight":"Indigo",
+         "from":"China",
+         "to":"Chicago",
+         "gate":"A3"
+      },
+ 
+ {  
+         "id":"7",
+         "name":"Shah",
+         "flight":"British",
+         "from":"China",
+         "to":"India",
+         "gate":"A3"
+      },
+ 
+     {  
+         "id":"8",
+         "name":"Anita",
+         "flight":"Airlines",
+         "from":"Us",
+         "to":"India",
+         "gate":"A2"
+      },
+   
+    {  
+         "id":"9",
+         "name":"Mita",
+         "flight":"Delta",
+         "from":"Delhi",
+         "to":"Mumbai",
+         "gate":"B1"
+      },
+   
+      {  
+         "id":"10",
+         "name":"Leena",
+         "flight":"American Airlines",
+         "from":"Chicago",
+         "to":"New York",
+         "gate":"D1"
+      },
+    
+  {  
+         "id":"11",
+         "name":"Lila",
+         "flight":"Alaska Airlines",
+         "from":"Chennai",
+         "to":"Mumbai",
+         "gate":"D1"
+      },
+      {  
+         "id":"12",
+         "name":"Ani",
+         "flight":"Airlines",
+         "from":"China",
+         "to":"Us",
+         "gate":"A3"
+      },
+ {  
+         "id":"13",
+         "name":"Shree",
+         "flight":"American Airlines",
+         "from":"Japan",
+         "to":"India",
+         "gate":"A2"
+      },
+     
+   {  
+         "id":"14",
+         "name":"Amee",
+         "flight":"Delta",
+         "from":"Us",
+         "to":"India",
+         "gate":"D1"
+      },
+    
+  {  
+         "id":"15",
+         "name":"Uvi",
+         "flight":"Allegiant Airlines",
+         "from":"China",
+         "to":"Us",
+         "gate":"A3"
+      },
+   
+   {  
+          "id":"16",
+         "name":"Yash",
+         "flight":"Indigo Airlines",
+         "from":"Mumbai",
+         "to":"Chicago",
+         "gate":"A4"
+      }
+    ]
+}
