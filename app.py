@@ -11,12 +11,12 @@ data=jData["Airlines"]
 def route_main():
     return "Welcome! I hope it works!"
 
-# Returns JSON which containes all restaurants
+# Returns JSON which containes all airlines
 @app.route('/getairlines/')
-def restaurants_all():
+def airlines_all():
     return render_template("index.html",items=data)
 
-# Returns restaurants JSON which matches the id
+# Returns airlines JSON which matches the id
 @app.route('/getairlines/<string:id>/')
 def restaurants_by_id(id=''):
     myList=[]
@@ -25,9 +25,9 @@ def restaurants_by_id(id=''):
             myList.append(element)
     return render_template("index.html",items=myList)
 
-# Returns the restaurants JSON with particualr food type
+# Returns the airlines JSON with particualr type
 @app.route('/getairlines/gate/<string:gate>/')
-def restaurants_by_type(gate=''):
+def airlines_by_type(gate=''):
     myList=[]
     for element in data:
         if element["gate"].lower() == gate.lower():
